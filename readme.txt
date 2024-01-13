@@ -1,8 +1,4 @@
-Name: Ooi Wei Sheng
-ID: 20204891
-
-__________________________________________________________________________________________
-
+_______________________________________________________________________________________
 Cleaning Simulation:
 This project simulates a 2D envitonmrnt with multiple vacuum cleaners working to clean an evironmnet covered in dirt sports. Different strategies is implemented to compare their performance. The environment also incldues prioritised areas that should be cleaned urgently.
 
